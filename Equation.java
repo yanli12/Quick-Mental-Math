@@ -1,6 +1,6 @@
 import java.util.Random;
 
-class Equation {
+public class Equation {
     private int num1;
     private int num2;
     private char op;
